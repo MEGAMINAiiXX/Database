@@ -1,0 +1,6 @@
+student_id,name,email,faculty,age,gpa
+1,Avin,avin@example.com,COM-25,20,3.80
+2,Beka,beka@example.com,MED,19,3.20
+3,Alymbek,alymbek@example.com,IT,21,3.90
+4,Timur,timur@example.com,COM-25,18,2.90
+5,Meerim,meerim@example.com,Economics,22,3.50
