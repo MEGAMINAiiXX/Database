@@ -1,12 +1,11 @@
- PostgreSQL Labs
-
+PostgreSQL Labs
 PostgreSQL laboratory works and SQL exercises  
 (AUCA,Bishkek, 2026)
 
 A collection of SQL scripts covering everything from basic psql commands to advanced topics:  
 all types of JOINs, aggregates, window functions, recursive queries, transactions, COPY import/export, etc.
 
- List of Labs 
+List of Labs 
 
 | №  | File                                      | Main Topic                                          |
 |----|-------------------------------------------|-----------------------------------------------------|
@@ -25,6 +24,6 @@ all types of JOINs, aggregates, window functions, recursive queries, transaction
 |13  | `16_transactions_acid_properties.sql`     | Transactions, COMMIT, ROLLBACK, SAVEPOINT           |
 |14  | `17_data_import_export_backup.sql`        | Data import/export with COPY (CSV)                  |
 
-**Extra files:**
-- `students_export.csv` 
-- `FirstSQLQuery.sql`
+Extra files:
+ `students_export.csv` 
+ `FirstSQLQuery.sql`
